@@ -1,4 +1,4 @@
-# Vrchat-Avatar
+# Arch-Galactic
 This is an simple Vrchat avatar thats has been made with blender. It does comes with everything needed for its to import into unity.
 This is very simple shape avatar.
 triangles: 3494
